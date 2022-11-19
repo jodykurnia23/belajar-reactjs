@@ -1,4 +1,3 @@
-import React from "react";
 import Komponen from "./Materi/Komponen";
 
 function App() {
