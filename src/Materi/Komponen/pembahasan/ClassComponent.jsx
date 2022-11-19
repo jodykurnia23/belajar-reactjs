@@ -1,7 +1,7 @@
 import React from "react";
 
 class ClassComponent extends React.Component{
-    render(){
+    render() {
         return(
             <div>
                 <h1>Jody Ganteng</h1>
